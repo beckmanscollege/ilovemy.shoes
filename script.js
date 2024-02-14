@@ -5,5 +5,5 @@ document.addEventListener("DOMContentLoaded", function() {
   // Dölj GIF efter 10 sekunder
   setTimeout(function() {
     gifContainer.style.display = "none";
-  }, 9800); // 10000 ms = 10 sekunder
+  }, 8200); // 10000 ms = 10 sekunder
 });
